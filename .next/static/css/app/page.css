@@ -1,0 +1,39 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./src/app/layout/diseño.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************/
+
+
+/* Estilos para el menú */
+nav {
+  background-color: #333;
+  padding: 10px 0;
+}
+
+/* Estilos para la lista */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+/* Estilos para los elementos de la lista */
+li {
+  margin: 0 15px;
+}
+
+/* Estilos para los enlaces */
+a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+/* Estilos para el enlace activo (opcional) */
+a:hover {
+  background-color: #555;
+}
+
